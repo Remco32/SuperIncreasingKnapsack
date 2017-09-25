@@ -1,0 +1,11 @@
+ Superincreasing knapsack:
+ 1 3 37 42 90 182 366 722 1481 3210 6143 12345 24666 50000 100001 200000
+
+ Sum of SK = 399289
+ Closest higher prime: 399353
+
+ multiplier m = 7
+ modulator n = 399353
+
+ General knapsack/public key:
+7 21 259 294 630 1274 2562 5054 10367 22470 43001 86415 172662 350000 300654 201941
